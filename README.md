@@ -2,8 +2,8 @@
 Trabalho final da materia de estrutura de dados
 
 # Integrantes
-João Pedro Fernandes Rodrigues
-Matheus Barbosa de Jesus Santos
+João Pedro Fernandes Rodrigues,
+Matheus Barbosa de Jesus Santos e
 Victor Hugo Ferreira Costa
 
 # Turma
@@ -11,8 +11,8 @@ Turma C
 
 # TEMAS ESCOLHIDOS -
 
-Tema Trabalho A: Playlist de musicas
-Tema Trabalho B: Chamada de emergencia
+Tema Trabalho A: Playlist de musicas / 
+Tema Trabalho B: Chamada de emergencia /
 Tema Trabalho C: Fila de Banco
 
 # EXPLICAÇÃO DOS PROGRAMAS -
