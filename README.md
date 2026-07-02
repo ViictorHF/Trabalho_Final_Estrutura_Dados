@@ -1,6 +1,9 @@
 # Trabalho_Final_Estrutura_Dados
 Trabalho final da materia de estrutura de dados
 
+# Link do Video no YouTube
+https://youtu.be/G81MoEJJAos
+
 # Integrantes
 João Pedro Fernandes Rodrigues,
 Matheus Barbosa de Jesus Santos e
